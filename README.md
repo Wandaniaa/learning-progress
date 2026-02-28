@@ -1,3 +1,4 @@
 # learning-progress
 Tracking my coding tasks, challenges, and learning exercises
-[View Project Repository](https://github.com/Wandaniaa/learning-progress)
+## Project URL
+The live project repository can be found here: [https://github.com/Wandaniaa/learning-progress](https://github.com/Wandaniaa/learning-progress)
