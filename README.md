@@ -4,3 +4,4 @@ Tracking my coding tasks, challenges, and learning exercises
 The live project repository can be found here: [https://github.com/Wandaniaa/learning-progress](https://github.com/Wandaniaa/learning-progress)
 
 https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/basic-html-website
